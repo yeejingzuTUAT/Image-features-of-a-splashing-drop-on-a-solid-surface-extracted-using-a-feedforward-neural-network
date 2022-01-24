@@ -1,6 +1,4 @@
 # Image-features-of-a-splashing-drop-on-a-solid-surface-extracted-using-a-feedforward-neural-network
-Source code for publication: J. Yee, A. Yamanaka, Y. Tagawa, Phys. Fluids 34, 013317 (2022)
-
 This is the source code for the publication:
 
 Jingzu Yee, Akinori Yamanaka (山中晃徳), and Yoshiyuki Tagawa (田川義之) ,<br />
